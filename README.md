@@ -13,4 +13,4 @@ My Data Structures & Algorithms journey using Love Babbar's Complete C++ Placeme
 
 Love Babbar - Complete C++ Placement DSA Course
 
-Status: Lecture 1 Completed 
+Status: Lecture 2 Completed 
