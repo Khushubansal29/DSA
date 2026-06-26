@@ -13,7 +13,7 @@ My Data Structures & Algorithms journey using Love Babbar's Complete C++ Placeme
 
 Love Babbar - Complete C++ Placement DSA Course
 
-Completed:
- Lecture 1 - Flowcharts & Pseudocode
- Lecture 2 - Variables & Data Types
- Lecture 3 - If-Else & Loops
+Completed: <br>
+ Lecture 1 - Flowcharts & Pseudocode <br>
+ Lecture 2 - Variables & Data Types <br>
+ Lecture 3 - If-Else & Loops <br>
